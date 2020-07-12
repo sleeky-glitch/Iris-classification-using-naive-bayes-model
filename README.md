@@ -3,7 +3,7 @@ Classification of Iris dataset using naive bayes model and checking the predicti
 
 Data set is imported from https://www.kaggle.com/uciml/iris
 
-IDE used: atom with hydrogen.
+IDE used: atom with hydrogen for iris.py, jupyter notebook also present
 
 libraries used are Pandas for dataframe manipulation, Numpy for array manipulation and sklearn for train test split, naive bayes, confusion matrix and standard scailer.
 
